@@ -10,3 +10,5 @@ Tags: (Wiz) `6fe3ae27-dc6c-4fc9-9245-710c790c396c`
 #### Skills
 UUID: `ff6ba09f-a9d9-46cf-9b1b-366a3cd504cd`
 
+#### Progressions
+UUID Lvl 1: `b24c6963-e296-40ac-8d69-f5cc177c16ac`

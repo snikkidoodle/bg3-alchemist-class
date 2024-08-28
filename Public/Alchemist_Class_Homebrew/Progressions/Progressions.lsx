@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="330"/>
+    <region id="Progressions">
+        <node id="root">
+          <children>
+            <node id="Progression"> Alchemist Main Lvl 1
+              <attribute id="AllowImprovement" type="bool" value="false"/>
+              <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(LightArmor)"/>
+              <attribute id="Level" type="uint8" value="1"/>
+              <attribute id="Name" type="LSString" value="CL_Alchemist"/>
+              <attribute id="PassivesAdded" type="LSString" value="Passive1"/> most class features usually can be done with passives
+              <attribute id="PassivesRemoved" type="LSString" value=""/>
+              <attribute id="ProgressionType" type="uint8" value="1"/>
+              <attribute id="Selectors" type="LSString" value="SelectSkills(ff6ba09f-a9d9-46cf-9b1b-366a3cd504cd,3)"/>
+              <attribute id="TableUUID" type="guid" value="352aeb99-6913-4369-883f-163611969043"/>
+              <attribute id="UUID" type="guid" value="b24c6963-e296-40ac-8d69-f5cc177c16ac"/>
+            </node>
+          </children>
+        </node>
+    </region>
+</save>
