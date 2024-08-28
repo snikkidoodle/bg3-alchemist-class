@@ -16,3 +16,6 @@ UUID Lvl 1: `b24c6963-e296-40ac-8d69-f5cc177c16ac`
 #### Spells
 UUID Cantrips: `c89d6264-a6eb-4274-8504-b149fa86bd53`
 UUID Lvl 1: `12b05a82-8d32-427d-a2fb-419d98c1f670`
+
+#### Local/Meta
+Desc.: `h57e51737g9a6dg42e7g8226g71452ef831cb`
