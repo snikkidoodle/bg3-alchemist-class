@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+        <region id="SpellLists">
+            <node id="root">
+                <children>
+                    <node id="SpellList">
+                        <attribute id="Comment" type="LSString" value="Alchemist Cantrips (Intelligence)" />
+                        <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_CreateBonfire;Target_Frostbite;Target_MagicStone;Projectile_PoisonSpray;Target_Prestidigitation;Shout_Thunderclap;Target_TrueStrike;Target_Friends;Target_Guidance;Target_Light;Target_PrimalSavagery;Target_Resistance;Target_ShockingGrasp;" /> a list of spell separated by a ; (need to add alchemical bomb)
+                        <attribute id="UUID" type="guid" value="c89d6264-a6eb-4274-8504-b149fa86bd53" /> new UUID made
+                    </node>
+                        <node id="SpellList">
+                        <attribute id="Comment" type="LSString" value="Alchemist Level 1 Spells" />
+                        <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_CreateBonfire;Target_Frostbite;Target_MagicStone;Projectile_PoisonSpray;Target_Prestidigitation;Shout_Thunderclap;Target_TrueStrike;Target_Friends;Target_Guidance;Target_Light;Target_PrimalSavagery;Target_Resistance;Target_ShockingGrasp;" /> a list of spell separated by a ;
+                        <attribute id="UUID" type="guid" value="12b05a82-8d32-427d-a2fb-419d98c1f670" /> make a new UUID. refer to this when selecting or adding spells
+                    </node>
+                </children>
+            </node>
+    </region>
+</save>
