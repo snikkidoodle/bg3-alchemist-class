@@ -2,7 +2,7 @@
     <attribute id="BaseHp" type="int32" value="8"/>
     <attribute id="CanLearnSpells" type="bool" value="false"/>
     <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> 
-    <attribute id="ClassEquipment" type="FixedString" value=""/> 
+    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Alchemist"/> 
     <attribute id="Description" type="TranslatedString" handle="h57e51737g9a6dg42e7g8226g71452ef831cb" version="1"/> 
     <attribute id="DisplayName" type="TranslatedString" handle="h5c95d4bag7237g4d2dg8609g898fab335e2e" version="1"/> 
     <attribute id="HpPerLevel" type="int32" value="5"/> 
