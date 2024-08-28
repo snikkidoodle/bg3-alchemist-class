@@ -1,0 +1,24 @@
+<node id="ClassDescription"> 
+    <attribute id="BaseHp" type="int32" value="8"/>
+    <attribute id="CanLearnSpells" type="bool" value="false"/>
+    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/> 
+    <attribute id="ClassEquipment" type="FixedString" value=""/> 
+    <attribute id="Description" type="TranslatedString" handle="h57e51737g9a6dg42e7g8226g71452ef831cb" version="1"/> 
+    <attribute id="DisplayName" type="TranslatedString" handle="h5c95d4bag7237g4d2dg8609g898fab335e2e" version="1"/> 
+    <attribute id="HpPerLevel" type="int32" value="5"/> 
+    <attribute id="LearningStrategy" type="uint8" value="1"/>
+    <attribute id="MustPrepareSpells" type="bool" value="true"/> 
+    <attribute id="Name" type="FixedString" value="CL_Alchemist"/> 
+    <attribute id="PrimaryAbility" type="uint8" value="4"/> 
+    <attribute id="ProgressionTableUUID" type="guid" value="352aeb99-6913-4369-883f-163611969043"/> 
+    <attribute id="SoundClassType" type="FixedString" value="Warlock"/> 
+    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+    <attribute id="UUID" type="guid" value="d8d2aee7-d16b-42fb-b284-529366814ab3"/> 
+    <children>
+        <node id="Tags">
+            <attribute id="Object" type="guid" value="6fe3ae27-dc6c-4fc9-9245-710c790c396c"/> 
+        </node>
+        <node id="Tags">
+            <attribute id="Object" type="guid" value="885f8675-e400-4d53-924d-6204ff1d9558"/>
+        </node>
+    </children>
